@@ -6,7 +6,7 @@
 
 Transforme uma ideia em rascunho, organize a revisão e enxergue o calendário de publicações — sem conta, backend ou envio de dados para terceiros.
 
-[![CI](https://github.com/jpzank/jurispauta/actions/workflows/ci.yml/badge.svg)](https://github.com/jpzank/jurispauta/actions/workflows/ci.yml) ![Versão 0.1.0](https://img.shields.io/badge/vers%C3%A3o-0.1.0-4f86ef) ![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-22c55e) ![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-339933?logo=nodedotjs&logoColor=white) ![Local first](https://img.shields.io/badge/dados-local--first-8b5cf6)
+[![CI](https://github.com/jpzank/jurispauta/actions/workflows/ci.yml/badge.svg)](https://github.com/jpzank/jurispauta/actions/workflows/ci.yml) ![Versão 0.1.1](https://img.shields.io/badge/vers%C3%A3o-0.1.1-4f86ef) ![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-22c55e) ![Node.js 22+](https://img.shields.io/badge/Node.js-22%2B-339933?logo=nodedotjs&logoColor=white) ![Local first](https://img.shields.io/badge/dados-local--first-8b5cf6)
 
 [**Abrir a demo pública**](https://jurispauta.vercel.app/) · use somente dados fictícios
 

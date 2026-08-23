@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "description": "Planejamento editorial jurídico, local e open source.",
+  "homepage": "https://jurispauta.vercel.app/",
   "license": "MIT",
   "repository": {
     "type": "git",

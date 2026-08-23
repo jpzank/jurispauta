@@ -1,0 +1,41 @@
+name: Relatar um bug
+description: Informe um comportamento reproduzível do JurisPauta.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Obrigado pelo relato. Use somente dados fictícios e nunca publique informações de clientes ou credenciais.
+  - type: textarea
+    id: description
+    attributes:
+      label: O que aconteceu?
+      description: Descreva o comportamento observado e o esperado.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Como reproduzir
+      description: Liste passos mínimos usando exemplos fictícios.
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Navegador e sistema
+      placeholder: Firefox 141 no macOS 15
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Versão ou commit
+      placeholder: v0.1.0 ou SHA
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Segurança dos dados
+      options:
+        - label: Removi dados pessoais, sigilosos e credenciais deste relato.
+          required: true
